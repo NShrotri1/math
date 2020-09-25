@@ -14,14 +14,18 @@ h1{
   font-size: 113;
 }
 h2{
-  font-size: 71
+  font-size: 71;
 }
 h3{
-  font-size: 56
+  font-size: 56;
 }
 p{
-  font-size: 16
+  font-size: 16;
 }
 footer{
   opacity: .6;
+}
+
+#Subtitle{
+  font-size: 19;
 }
