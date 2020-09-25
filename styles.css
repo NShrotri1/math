@@ -2,6 +2,11 @@
 Design Theme: I am using the material.io dark mode design theme. Here is a link:
 https://material.io/design/color/dark-theme.html#ui-application
 I'm a big fan of Dark Mode UI so the choice was natural.
+Colors I used:
+#121212
+#FFFFFF
+#BB86FC
+#3700B3
 */
 body{
   font-family: 'Noto Sans', sans-serif;
@@ -19,6 +24,7 @@ h1{
   font-size: 19px;
   letter-spacing: .15px;
   font-weight: 400;
+  padding-bottom: .5cm;
 }
 h2{
   font-size: 71px;
@@ -37,6 +43,8 @@ p{
 }
 footer{
   opacity: .6;
+  text-align: center;
+  padding-top: 2cm;
 }
 a{
   color: #FFFFFF;
@@ -46,4 +54,66 @@ a{
 figcaption{
   color: #FFFFFF;
   opacity: .6;
+  letter-spacing: .4px;
+  font-size: 12px;
+  font-weight: 400;
+}
+img{
+  width: 10cm;
+  height: auto;
+}
+table{
+  text-align: center;
+  border-spacing: 20px;
+  border-collapse: collapse;
+}
+table, th{
+  border-style: none;
+  border-top: none;
+  padding: .5cm;
+  empty-cells: hide;
+  margin: auto;
+}
+td{
+  border: 1px;
+  border-collapse: collapse;
+  border-style: solid;
+  border-color: #3700B3;
+  padding: .5cm;
+  border-bottom: none;
+  border-left: none;
+}
+.rwall{
+  border-right: none
+}
+#leftwall{
+  border: 1px;
+  border-style: solid;
+  border-color: #BB86FC;
+  border-left: none;
+  border-top: none;
+  border-right-color: #3700B3;
+}
+#rightwall{
+  border: 1px;
+  border-style: solid;
+  border-color: #BB86FC;
+  border-right: none;
+  border-top: none;
+  border-left-color: #3700B3;
+}
+#cent{
+  border: 1px;
+  border-style: solid;
+  border-color: #BB86FC;
+  border-right: none;
+  border-top: none;
+  border-left: none;
+}
+.Titles{
+  color: #FFFFFF;
+  opacity: .6;
+  letter-spacing: .1px;
+  font-size: 16px;
+  font-weight: 500;
 }
