@@ -12,22 +12,34 @@ body{
 
 h1{
   font-size: 113px;
+  letter-spacing: -1.5px;
+  font-weight: 300;
 }
 .subtitle{
   font-size: 19px;
+  letter-spacing: .15px;
+  font-weight: 400;
 }
 h2{
   font-size: 71px;
+  letter-spacing: -.5px;
+  font-weight: 300;
 }
 h3{
   font-size: 56px;
+  letter-spacing: 0px;
+  font-weight: 400;
 }
 p{
   font-size: 16px;
+  letter-spacing: .5px;
+  font-weight: 400;
 }
 footer{
   opacity: .6;
 }
 a{
   color: #FFFFFF;
+  letter-spacing: .5px;
+  font-weight: 400;
 }
