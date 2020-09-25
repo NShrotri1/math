@@ -13,6 +13,9 @@ body{
 h1{
   font-size: 113;
 }
+#Subtitle{
+  font-size: 19;
+}
 h2{
   font-size: 71;
 }
@@ -24,8 +27,4 @@ p{
 }
 footer{
   opacity: .6;
-}
-
-#Subtitle{
-  font-size: 19;
 }
