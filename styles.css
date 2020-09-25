@@ -1,3 +1,10 @@
+/*
+Design Theme: I am using the material.io dark mode design theme. Here is a link:
+https://material.io/design/color/dark-theme.html#ui-application
+I'm a big fan of Dark Mode UI so the choice was natural.
+*/
 body{
   font-family: 'Noto Sans', sans-serif;
+  background-color: #121212;
+  color: #BB86FC;
 }
