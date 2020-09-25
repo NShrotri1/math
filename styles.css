@@ -11,6 +11,18 @@ body{
 h1,h2,h3{
   color: #3700B3;
 }
+h1{
+  font-size: 113;
+}
+h2{
+  font-size: 71
+}
+h3{
+  font-size: 56
+}
+p{
+  font-size: 16
+}
 a{
   color: #03DAC6;
 }
